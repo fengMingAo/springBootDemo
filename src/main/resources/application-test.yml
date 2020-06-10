@@ -1,0 +1,4 @@
+server:
+  port: 1122
+  servlet:
+    context-path: /javatest

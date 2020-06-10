@@ -1,0 +1,18 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /java1111
+offcn_ip:
+     1111
+offcn_port:
+    name
+
+
+person:
+  name: 今天
+  id: 22
+  age: 99
+  school: 清华
+spring:
+  profiles:
+    active: pro
